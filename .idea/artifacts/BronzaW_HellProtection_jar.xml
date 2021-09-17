@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BronzaW-HellProtection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BronzaW_HellProtection_jar</output-path>
+    <root id="archive" name="BronzaW-HellProtection.jar">
+      <element id="module-output" name="BronzaW-HellProtection" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-1.16.5.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
